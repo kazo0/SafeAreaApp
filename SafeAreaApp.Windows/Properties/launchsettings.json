@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"SafeAreaApp.Windows (Unpackaged)": {
+			"commandName": "Project"
+		},
+		"SafeAreaApp.Windows (Package)": {
+			"commandName": "MsixPackage"
+		}
+	}
+}

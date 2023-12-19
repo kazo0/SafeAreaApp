@@ -1,0 +1,11 @@
+<linker>
+  <assembly fullname="SafeAreaApp" />
+  <assembly fullname="SafeAreaApp.Wasm" />
+
+  <!--
+  Uncomment this section when using JSON.NET
+  <assembly fullname="System.Core">
+    <type fullname="System.Linq.Expressions*" />
+  </assembly>
+   -->
+</linker>
